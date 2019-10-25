@@ -1,0 +1,240 @@
+#u2754-4
+{
+	transition-duration: 0.4s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-duration: 0.4s;
+	transition-timing-function: ease;
+	font-size: 12px;
+	-webkit-transition-timing-function: ease;
+	line-height: 21px;
+	font-weight: 300;
+	background-repeat: no-repeat;
+	background-color: transparent;
+	transition-delay: 0s;
+	background-position: right center;
+	font-family: museo-sans-rounded, sans-serif;
+	text-align: left;
+	background-size: 118px 18px;
+}
+
+.Footer_buttons
+{
+	border-width: 0px;
+	border-color: #000000;
+	background: transparent url("../images/iconarrowleft-grn-03-03.svg?crc=510033579") no-repeat right center;
+	background-size: contain;
+}
+
+#u2758-4
+{
+	transition-timing-function: ease;
+	background-position: right center;
+	background-repeat: no-repeat;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-duration: 0.4s;
+	transition-delay: 0s;
+	transition-duration: 0.4s;
+	background-color: transparent;
+	-webkit-transition-timing-function: ease;
+	background-size: 118px 18px;
+}
+
+#u2754-4:hover,#u2758-4:hover
+{
+	filter: alpha(opacity=100);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	opacity: 1;
+	background: transparent url("../images/iconarrowleft-grnlght-03-03-03.svg?crc=452345104") no-repeat right center;
+	background-size: 118px 18px;
+}
+
+#u2758-4:active
+{
+	filter: alpha(opacity=100);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	opacity: 1;
+	background: transparent url("../images/iconarrowleft-grn-03-03.svg?crc=510033579") no-repeat right center;
+	background-size: 118px 18px;
+}
+
+#u2754-4:hover p,#u2758-4:hover p
+{
+	color: #7F7F7F;
+	visibility: inherit;
+}
+
+.nosvg .Footer_buttons,.nosvg #u2758-4:active
+{
+	background-image: url('../images/iconarrowleft-grn-03-03_poster_u3209.png?crc=130792205');
+}
+
+#u2762-4
+{
+	transition-timing-function: ease;
+	background-position: right center;
+	background-repeat: no-repeat;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-duration: 0.4s;
+	transition-delay: 0s;
+	transition-duration: 0.4s;
+	background-color: transparent;
+	-webkit-transition-timing-function: ease;
+	background-size: 118px 18px;
+}
+
+#u3078-4
+{
+	transition-timing-function: ease;
+	background-position: right center;
+	background-repeat: no-repeat;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-duration: 0.4s;
+	transition-delay: 0s;
+	transition-duration: 0.4s;
+	background-color: transparent;
+	-webkit-transition-timing-function: ease;
+	background-size: 118px 18px;
+}
+
+#u2762-4:hover,#u3078-4:hover
+{
+	filter: alpha(opacity=100);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	opacity: 1;
+	background: transparent url("../images/iconarrowleft-grnlght-03-03-03.svg?crc=452345104") no-repeat right center;
+	background-size: 118px 18px;
+}
+
+.nosvg #u2754-4:hover,.nosvg #u2758-4:hover,.nosvg #u2762-4:hover,.nosvg #u3078-4:hover
+{
+	background-image: url('../images/iconarrowleft-grnlght-03-03-03_poster_u3217.png?crc=4217197722');
+}
+
+#u2758-4:active p,#u2762-4:hover p,#u3078-4:hover p
+{
+	color: #7F7F7F;
+	visibility: inherit;
+}
+
+#u2758-2,#u2762-2,#u3078-2
+{
+	line-height: 21px;
+	color: #000000;
+}
+
+#u61387
+{
+	filter: alpha(opacity=100);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	opacity: 1;
+	background: transparent url("../images/fbicondrk-04.svg?crc=4205681431") no-repeat center center;
+	background-size: contain;
+}
+
+.social-ico
+{
+	transition-delay: 0s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-duration: 0.4s;
+	transition-timing-function: ease;
+	transition-property: background-image,background-position,background-color,border-color,border-radius,color,font-size,font-style,font-weight,letter-spacing,line-height,text-align,box-shadow,text-shadow,opacity;
+	border-width: 0px;
+	-webkit-transition-timing-function: ease;
+	-webkit-transition-property: background-image,background-position,background-color,border-color,border-radius,color,font-size,font-style,font-weight,letter-spacing,line-height,text-align,box-shadow,text-shadow,opacity;
+	border-color: #000000;
+	transition-duration: 0.4s;
+	background: transparent url("../images/ico_fb.png?crc=4130637005") no-repeat center center;
+	background-size: contain;
+}
+
+.nosvg #u61387
+{
+	background-image: url('../images/fbicondrk-04_poster_u3153.png?crc=470338482');
+}
+
+#u61388
+{
+	filter: alpha(opacity=100);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	opacity: 1;
+	background: transparent url("../images/instagrmicons-05.svg?crc=3804215784") no-repeat center center;
+	background-size: contain;
+}
+
+.nosvg #u61388
+{
+	background-image: url('../images/instagrmicons-05_poster_u3161.png?crc=441361361');
+}
+
+#u61389
+{
+	filter: alpha(opacity=100);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	opacity: 1;
+	background: transparent url("../images/iconmonstr-linkedin-3.svg?crc=4014505329") no-repeat center center;
+	background-size: contain;
+}
+
+#u61387:hover,#u61388:hover,#u61389:hover
+{
+	filter: alpha(opacity=40);
+	background-repeat: no-repeat;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+	background-position: center center;
+	opacity: 0.4;
+	background-size: contain;
+}
+
+#u61389.MuseLinkActive
+{
+	filter: alpha(opacity=100);
+	background-repeat: no-repeat;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	background-position: center center;
+	opacity: 1;
+	background-size: contain;
+}
+
+.nosvg #u61389
+{
+	background-image: url('../images/iconmonstr-linkedin-3_poster_u61394.png?crc=4103711726');
+}
+
+#u3332,#u3362
+{
+	border-style: solid;
+	opacity: 0.1;
+	background-color: transparent;
+	border-color: #000000;
+	filter: alpha(opacity=10);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
+	border-width: 1px 0px 0px;
+}
+
+#u2753-4
+{
+	line-height: 12px;
+	color: #7F7F7F;
+	font-size: 10px;
+	letter-spacing: 1px;
+	background-color: transparent;
+}
+
+#u2751
+{
+	filter: alpha(opacity=100);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	opacity: 1;
+	background: transparent url("../images/logolong-01.svg?crc=70886280") no-repeat center center;
+	background-size: contain;
+}
+
+.nosvg #u2751
+{
+	background-image: url('../images/logolong-01_poster_u2742.png?crc=118967646');
+}
+
+
+
+
+

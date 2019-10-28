@@ -70,7 +70,7 @@ p {
     margin: 0;
     padding: 1em 0;
 }
-
+/* Button styles */
 .btn {
     display: inline-block;
     background: #333333;
@@ -88,26 +88,29 @@ p {
 
 /* Header Showcase */
 #showcase {
-    min-height: 450px;
+    min-height: 110px;
     color: #ffffff;
     text-align: center;
 }
 
-#showcase .bg-image {
+#showcase .tp-image {
     position: absolute;
-    background: #333333 url('https://images.pexels.com/photos/247791/pexels-photo-247791.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background: url("img/HeaderImg-1280x110.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
     width: 100%;
-    height: 450px;
+    height: 110px;
     z-index: -1;
-    opacity: 0.4;
 }
 
-#showcase h1 {
-    padding-top: 100px;
-    padding-bottom: 0;
+#showcase .GSLogo {
+    background: transparent url("img/gslogo-header-v2-01.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left, bottom;
+    opacity: 1;
+    width: 317px
 }
 
 #showcase .content-warp,

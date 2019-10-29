@@ -110,6 +110,15 @@ p {
     background-size: contain;
     background-position: left, bottom;
     opacity: 1;
+    width: 100%;
+}
+
+#showcase .GSLogo-tagline {
+    background: transparent url("img/gslogo-tagline-01.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left, bottom;
+    opacity: 1;
     width: 317px
 }
 

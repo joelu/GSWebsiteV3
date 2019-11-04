@@ -113,13 +113,14 @@ p {
     width: 100%;
 }
 
-#showcase .GSLogo-tagline {
+#tagline {
     background: transparent url("img/gslogo-tagline-01.svg");
     background-repeat: no-repeat;
     background-size: contain;
-    background-position: left, bottom;
+    background-position: center;
     opacity: 1;
-    width: 317px
+    width: 317px;
+    height: 20px;
 }
 
 #showcase .content-warp,

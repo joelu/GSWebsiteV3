@@ -90,7 +90,11 @@ p {
 #showcase {
     min-height: 110px;
     color: #ffffff;
+<<<<<<< HEAD
     text-align: left;
+=======
+    text-align: center;
+>>>>>>> d5e38427f416d7e2c32a5467fda1c429a197e71d
 }
 
 #showcase .tp-image {
@@ -107,6 +111,7 @@ p {
 #showcase .GSLogo {
     background: transparent url("img/gslogo-header-v2-01.svg");
     background-repeat: no-repeat;
+<<<<<<< HEAD
     background-size: 317px;
     background-position-x: left;
     background-position-y: 50px;
@@ -121,11 +126,30 @@ p {
     background-size: 317px;
     background-position-x: left;
     background-position-y: center;
+=======
+    background-size: contain;
+    background-position: left, bottom;
+    opacity: 1;
+    width: 100%;
+}
+
+#showcase .GSLogo-tagline {
+    background: transparent url("img/gslogo-tagline-01.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left, bottom;
+    opacity: 1;
+    width: 317px
+>>>>>>> d5e38427f416d7e2c32a5467fda1c429a197e71d
 }
 
 #showcase .content-warp,
 #section-a .content-warp {
+<<<<<<< HEAD
     padding: 0 0.5em;
+=======
+    padding: 0 1.5em;
+>>>>>>> d5e38427f416d7e2c32a5467fda1c429a197e71d
 }
 
 /* Section A */
